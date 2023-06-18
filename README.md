@@ -1,1 +1,1 @@
-learn writing CUDA kernel
+learn to write CUDA kernels
